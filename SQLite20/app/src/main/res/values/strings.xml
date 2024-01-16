@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite2.0</string>
+    <string name="add">Thêm</string>
+    <string name="delete">Xoá</string>
+    <string name="student_id_label">Mã số sinh viên: </string>
+    <string name="student_name_label">Họ tên: </string>
+    <string name="edit_button_label">Chỉnh sửa</string>
+    <string name="back_button_label">Trở về</string>
+</resources>
